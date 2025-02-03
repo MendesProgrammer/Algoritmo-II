@@ -1,0 +1,6 @@
+Escreva um programa em C que receba o nome, a idade e a altura de uma pessoa,
+e utilize apenas um comando para mostrar na tela essas informações de forma
+organizada (uma informação por linha com indicação do que é). Exemplo:
+Nome: Jussara
+Idade: 23
+Altura: 1,68

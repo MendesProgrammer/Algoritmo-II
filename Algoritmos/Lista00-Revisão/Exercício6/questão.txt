@@ -1,0 +1,4 @@
+Escreva um algoritmo que peça um número inicial ao usuário, uma razão e
+calcule os termos de uma P. A. (progressão aritmética), armazenando esses
+valores em um vetor de tamanho 10, e, após o cálculo de todos os termos,
+mostre-os na tela.

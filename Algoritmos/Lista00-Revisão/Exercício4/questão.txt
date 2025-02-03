@@ -1,0 +1,2 @@
+Escreva um algoritmo que solicita 12 números ao usuário, através de um laço, e
+ao final mostre os dois maiores números digitados pelo usuário.

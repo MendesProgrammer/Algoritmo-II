@@ -1,0 +1,4 @@
+Escreva um algoritmo que leia as notas da prova de 10 alunos de Algoritmos II.
+O programa deve mostrar na tela qual é a maior nota, qual é a menor nota, qual
+é a nota média da classe, e quantos alunos tiveram nota acima da média da classe
+(Obs.: a média da classe é diferente da média para aprovação). 

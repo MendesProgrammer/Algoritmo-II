@@ -1,0 +1,2 @@
+Escreva um programa em C que receba 5 números reais, e ao final apresente na
+tela um por linha com 3 casas decimais. 

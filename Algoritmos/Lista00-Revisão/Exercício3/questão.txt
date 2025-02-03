@@ -1,0 +1,2 @@
+Escreva um algoritmo que solicita 6 números ao usuário, através de um laço
+enquanto, e ao final mostre qual destes números é o maior

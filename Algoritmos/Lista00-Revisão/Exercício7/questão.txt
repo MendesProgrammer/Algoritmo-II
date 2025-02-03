@@ -1,0 +1,12 @@
+Em uma competição online de programação, os alunos tinham que resolver o
+maior número de problemas dentre os 100 problemas selecionados. Os alunos
+que resolvessem o maior número de problemas seriam premiados com prêmios
+diferentes para o primeiro e o segundo lugares. Dois ou mais alunos poderiam
+resolver o mesmo número de problemas e ficarem empatados em alguma
+colocação. Escreva um algoritmo que leia o número de problemas resolvidos por
+cada um dos 12 alunos que participaram da competição e mostre quantos
+problemas foram resolvidos pelo primeiro e segundo lugares, separadamente, e
+quantos alunos resolveram o número de problemas referente a cada uma das
+colocações. Exemplo:
+Primeiro lugar: 83 (2 alunos)
+Segundo lugar: 80 (4 alunos).

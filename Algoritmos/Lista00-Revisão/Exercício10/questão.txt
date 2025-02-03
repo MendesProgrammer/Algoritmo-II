@@ -1,0 +1,12 @@
+Escreva um programa em C para criar um menu que apresenta ao usuário pelo
+menos 5 opções de operações com dois valores além da opção de sair (utilize a
+estrutura switch-case) e alguma estrutura de repetição mais conveniente. Cada
+uma das opções deve ler os dois números e apresentar na tela o resultado da
+operação escolhida pelo usuário. O usuário deve digitar 0 para sair do menu e
+encerrar o programa. O menu deve ser algo do tipo:
+1) Adição
+2) Subtração
+3) Multiplicação
+4) Divisão
+5) Resto da divisão
+0) Sair

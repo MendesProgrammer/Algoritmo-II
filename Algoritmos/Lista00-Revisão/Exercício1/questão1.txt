@@ -1,0 +1,4 @@
+Escreva um algoritmo que receba e armazene em variáveis A e B dois números
+inteiros. Se ambos forem maiores ou iguais a zero, deve-se inverter os números
+de lugar (trocar os valores das variáveis). Caso contrário, deve-se manter como
+foram lidos. Ao final, os valores de A e B devem ser mostrados na tela. 

@@ -1,0 +1,4 @@
+Escreva um programa em C que faça o produto entre duas matrizes A mxn e B
+nxp. O programa deve ler primeiramente as dimensões das matrizes (m, n, p),
+depois ler as matrizes A e B, em seguida efetuar o produto gerando a matriz C
+mxp, e finalmente deve mostrar na tela o resultado em formato de matriz.

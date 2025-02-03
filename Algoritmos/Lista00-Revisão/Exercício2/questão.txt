@@ -1,0 +1,2 @@
+Escreva um algoritmo que receba dois números reais correspondentes a base e
+a altura de um triângulo, e que calcule e mostre na tela a área desse triângulo
