@@ -1,0 +1,2 @@
+Elabore uma função que calcule o máximo divisor comum (MDC) de dois
+números recebidos como parâmetros. 

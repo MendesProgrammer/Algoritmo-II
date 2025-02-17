@@ -1,0 +1,2 @@
+Crie uma função que gere e mostre os três primeiros números primos acima de
+100.

@@ -1,0 +1,2 @@
+Faça uma função que receba como parâmetro dois vetores de dez números
+inteiros, determine e mostre o vetor interseção entre eles. 

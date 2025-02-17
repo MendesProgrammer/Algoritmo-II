@@ -1,0 +1,2 @@
+Faça uma função que receba como parâmetro um valor inteiro e positivo e
+retorne a soma dos divisores desse valor.

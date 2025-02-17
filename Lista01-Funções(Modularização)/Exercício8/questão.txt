@@ -1,0 +1,2 @@
+Faça uma função que receba um valor inteiro e positivo, calcule e mostre seu
+fatorial

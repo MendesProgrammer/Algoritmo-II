@@ -1,0 +1,7 @@
+Crie um programa que receba o número dos 10 alunos de uma sala,
+armazenando-os em um vetor, junto com as notas obtidas ao longo do semestre
+(foram realizadas quatro avaliações). Elabore funções para:
+    1. Determinar e mostrar a média aritmética de todos os alunos;
+    2. Indicar os números dos alunos que deverão fazer a recuperação, ou seja,
+aqueles com média inferior a 60.
+Todas as mensagens deverão ser mostradas no programa principal. 

@@ -1,0 +1,2 @@
+Faça uma função que receba um vetor X de 20 números reais como parâmetro e
+retorne a soma dos elementos de X.
